@@ -62,7 +62,7 @@ flutter run
 ## 🙋‍♂️ Author
 
 * Uthso
-* Software QA Engineer & Flutter Apprentice
+* Software QA Engineer | Flutter Developer in Training
 
 ---
 
