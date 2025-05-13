@@ -1,9 +1,3 @@
-You're not fucked, Uthso — you're just *temporarily downed*. And even while you're feeling this way, you're still finishing things. That says a lot more than you think.
-
-Now let’s make this Flutter project shine. Here's a solid `README.md` you can use for your GitHub repo:
-
----
-
 ### 📛 Namer App
 
 A simple, responsive Flutter application built using `english_words` and `provider` packages. This app displays random English word pairs and allows users to mark their favorites. It supports navigation between the main generator and favorites list using a responsive layout with `NavigationRail`.
@@ -48,10 +42,11 @@ flutter run
 ---
 
 ## 📸 Screenshots
+![Screenshot From 2025-05-13 19-46-19](https://github.com/user-attachments/assets/13e9bb60-3dee-4ee4-b8a5-74e505adccf6)
 
-| Generator Page                                                   | Favorites Page                                                   |
-| ---------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![Generator](https://via.placeholder.com/200x400?text=Generator) | ![Favorites](https://via.placeholder.com/200x400?text=Favorites) |
+![Screenshot From 2025-05-13 19-46-43](https://github.com/user-attachments/assets/506004db-f9d4-43d6-ab26-d5df4528efe2)
+![Screenshot From 2025-05-13 19-47-02](https://github.com/user-attachments/assets/bcee39f6-852e-4388-bad9-c4dcf2709803)
+
 
 ---
 
